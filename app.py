@@ -26,3 +26,9 @@ print(f"Division: {division}")
 print(f"Modulus: {modulus}")
 4. Conditional Statements (if-else):
 
+123
+56
+4512
+963
+84512
+84512
